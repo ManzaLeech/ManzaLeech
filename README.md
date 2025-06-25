@@ -3,6 +3,7 @@ Fala, galera!
 <br>
 Sou Leandro, analista de suporte, e decidi migrar de profissão dentro da área de TI!
 <br>
+<br>
 🎯 Aprendendo Desenvolvimento Fullstack e Inglês ao mesmo tempo.
 <br>
 🚀 Desenvolvendo projetos que unem programação e idioma.
