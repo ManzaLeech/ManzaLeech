@@ -1,5 +1,6 @@
 Fala, galera!
 <br>
+<br>
 Sou Leandro, analista de suporte, e decidi migrar de profissão dentro da área de TI!
 <br>
 🎯 Aprendendo Desenvolvimento Fullstack e Inglês ao mesmo tempo.
@@ -10,7 +11,9 @@ Sou Leandro, analista de suporte, e decidi migrar de profissão dentro da área 
 <br>
 ⏳ Tempo estimado de aprendizado: 6 meses
 <br>
+<br>
 What's up, guys!
+<br>
 <br>
 I'm Leandro, a support analyst who's decided to shift careers within the IT field!
 <br>
