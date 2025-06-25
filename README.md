@@ -1,16 +1,18 @@
-## Hi there 👋
+Fala, galera!
 
-<!--
-**ManzaLeech/ManzaLeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Leandro, analista de suporte, e decidi migrar de profissão dentro da área de TI!
 
-Here are some ideas to get you started:
+🎯 Aprendendo Desenvolvimento Fullstack e Inglês ao mesmo tempo.
+🚀 Desenvolvendo projetos que unem programação e idioma.
+📚 Estudo por conta própria — e lá vamos nós... IUP! 😄
+⏳ Tempo estimado de aprendizado: 6 meses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What's up, guys!
+
+I'm Leandro, a support analyst who's decided to shift careers within the IT field!
+
+🎯 Learning Fullstack Development and English at the same time.
+🚀 Building projects that connect coding and language learning.
+📚 Self-taught — and here we go... IUP! 😄
+⏳ Estimated learning time: 6 months
+
